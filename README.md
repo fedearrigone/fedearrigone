@@ -7,9 +7,10 @@
 </div>
 
 <br>
-- A passionate Front-end developer
+- A passionate Front-end developer.
 - Currently learning Web Development at UNTREF.
 - I’m currently open for an Intern or a new job opportunity.
+<br>
 
 <br><br>
 
