@@ -1,7 +1,12 @@
-<a href="https://komarev.com/ghpvc/?username=fedearrigone">
+<div align="left">
+  <a href="https://komarev.com/ghpvc/?username=fedearrigone">
   <img align="center" src="https://komarev.com/ghpvc/?username=fedearrigone&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitor" />
 </a>
-  <h1 align="center"><b>Hi , I'm Fede Arrigone </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+<div align="center">
+  <h1><b>Hi , I'm Fede Arrigone </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - A passionate FullStack Web developer.<br>
